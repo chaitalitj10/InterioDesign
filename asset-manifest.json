@@ -1,31 +1,31 @@
 {
   "files": {
     "main.css": "/InterioDesign/static/css/main.8a1477e3.chunk.css",
-    "main.js": "/InterioDesign/static/js/main.4d925b5b.chunk.js",
-    "main.js.map": "/InterioDesign/static/js/main.4d925b5b.chunk.js.map",
+    "main.js": "/InterioDesign/static/js/main.44a1c395.chunk.js",
+    "main.js.map": "/InterioDesign/static/js/main.44a1c395.chunk.js.map",
     "runtime-main.js": "/InterioDesign/static/js/runtime-main.5afcf4fa.js",
     "runtime-main.js.map": "/InterioDesign/static/js/runtime-main.5afcf4fa.js.map",
     "static/css/2.74c02967.chunk.css": "/InterioDesign/static/css/2.74c02967.chunk.css",
-    "static/js/2.4b474869.chunk.js": "/InterioDesign/static/js/2.4b474869.chunk.js",
-    "static/js/2.4b474869.chunk.js.map": "/InterioDesign/static/js/2.4b474869.chunk.js.map",
+    "static/js/2.5920d7e8.chunk.js": "/InterioDesign/static/js/2.5920d7e8.chunk.js",
+    "static/js/2.5920d7e8.chunk.js.map": "/InterioDesign/static/js/2.5920d7e8.chunk.js.map",
     "index.html": "/InterioDesign/index.html",
     "static/css/2.74c02967.chunk.css.map": "/InterioDesign/static/css/2.74c02967.chunk.css.map",
     "static/css/main.8a1477e3.chunk.css.map": "/InterioDesign/static/css/main.8a1477e3.chunk.css.map",
-    "static/js/2.4b474869.chunk.js.LICENSE.txt": "/InterioDesign/static/js/2.4b474869.chunk.js.LICENSE.txt",
-    "static/media/Comfort.78d32474.jpg": "/InterioDesign/static/media/Comfort.78d32474.jpg",
-    "static/media/Eco-friendlyIdeas.3dcdee5f.jpg": "/InterioDesign/static/media/Eco-friendlyIdeas.3dcdee5f.jpg",
-    "static/media/FunctionalProduct.f84c41e4.jpg": "/InterioDesign/static/media/FunctionalProduct.f84c41e4.jpg",
+    "static/js/2.5920d7e8.chunk.js.LICENSE.txt": "/InterioDesign/static/js/2.5920d7e8.chunk.js.LICENSE.txt",
+    "static/media/Comfort.a96ade0f.jpeg": "/InterioDesign/static/media/Comfort.a96ade0f.jpeg",
+    "static/media/Eco-friendlyIdeas.6016daad.jpg": "/InterioDesign/static/media/Eco-friendlyIdeas.6016daad.jpg",
+    "static/media/FunctionalProduct.8a1d9cf0.jpg": "/InterioDesign/static/media/FunctionalProduct.8a1d9cf0.jpg",
     "static/media/MinimalistDesign.65c693c9.jpg": "/InterioDesign/static/media/MinimalistDesign.65c693c9.jpg",
-    "static/media/SmartHomeSolutions.a9839b62.jpg": "/InterioDesign/static/media/SmartHomeSolutions.a9839b62.jpg",
-    "static/media/Space-savingIdeas.d1e68089.jpg": "/InterioDesign/static/media/Space-savingIdeas.d1e68089.jpg",
+    "static/media/SmartHomeSolutions.64fd9d6b.jpg": "/InterioDesign/static/media/SmartHomeSolutions.64fd9d6b.jpg",
+    "static/media/Space-savingIdeas.48912c3d.jpg": "/InterioDesign/static/media/Space-savingIdeas.48912c3d.jpg",
     "static/media/homePic.f04f0f09.jpg": "/InterioDesign/static/media/homePic.f04f0f09.jpg",
     "static/media/living.9a43c0f2.jpg": "/InterioDesign/static/media/living.9a43c0f2.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.5afcf4fa.js",
     "static/css/2.74c02967.chunk.css",
-    "static/js/2.4b474869.chunk.js",
+    "static/js/2.5920d7e8.chunk.js",
     "static/css/main.8a1477e3.chunk.css",
-    "static/js/main.4d925b5b.chunk.js"
+    "static/js/main.44a1c395.chunk.js"
   ]
 }
