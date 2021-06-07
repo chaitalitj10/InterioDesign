@@ -1,5 +1,5 @@
 import Minimalist from "../src/Images/MinimalistDesign.jpg";
-import Comfort from "../src/Images/Comfort.jpg";
+import Comfort from "../src/Images/Comfort.jpeg";
 import EcoFriend from "../src/Images/Eco-friendlyIdeas.jpg";
 import Product from "../src/Images/FunctionalProduct.jpg";
 import SmartHome from "../src/Images/SmartHomeSolutions.jpg";
