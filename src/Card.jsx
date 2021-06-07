@@ -14,7 +14,7 @@ function Card(props) {
             bulk of the card's content.
           </p>
           <NavLink to="" className="btn btn-primary ">
-            Go somewhere
+            More info
           </NavLink>
         </div>
       </div>

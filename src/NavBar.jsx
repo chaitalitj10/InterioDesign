@@ -1,5 +1,6 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
+import "../node_modules/bootstrap/dist/js/bootstrap.bundle";
 
 function Navbar() {
   return (
